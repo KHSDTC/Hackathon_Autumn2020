@@ -4,35 +4,37 @@ layout: default
 
 # King's College London Health Science DTC
 
-# Data Hackathon Autumn Session 2019
+## Data Hackathon
 
-Everyone is invited to a third instalment of King's College London HSDTC Hackathon sessions. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
+Everyone is invited to a fourth instalment of King's College London HSDTC Hackathon sessions. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
 
-Our idea is to bring researchers from various backgrounds for an evening of computational biology problem solving.
-
-We aim to provide a relaxed environment for people to engage, discuss and exchange programming knowledge.
+Our idea is to bring researchers from various backgrounds for an evening of computational biology problem solving. We aim to provide a relaxed environment for people to engage, discuss and exchange programming knowledge.
 
 ## Theme of the evening
 
-The Hackathon session will be focusing on **Data Science** approaches, such as **Data Processing** and **Machine Learning**, that can be applied to tackle biological problems.
-
-Our task will consists of investigating a publicly available dataset, selecting statistical models and setting up an analysis pipeline.
-
-## Coding language of the evening
-
-This session will primarily focus on Python-specific approaches for solving Hackathon challenges. However, you are welcome to use any language of your choice. We are always looking to improving ourselves!
+The Spring session will be a __beginners-focused__ event, where we will learn about basics of __Python__, __Data Manipulation__ and __Machine Learning__.
 
 ## For whom is this Hackathon intended?
 
-The Hackathon is suitable for anyone at King's, including undergraduate and postgraduate students, Post-Docs and PIs, who regularly use or wish to regularly use coding for their research, regardless of their level of expertise with programming.
+The Hackathon is suitable for beginners at King's, including undergraduate and postgraduate students, Post-Docs and PIs, regardless of their level of expertise with programming. You should come if you who wish to start using coding in your research or practice what you have learnt before. 
 
 ## Hackathon format
 
-We will divide ourselves in groups of 4-5 people and attempt in solving the given evening challenge.
+The Hackathon will be divided into three parts:
 
-## Hackathon challenges
+- __Part 1:__ Basics of Python programming.
+- __Part 2:__ Data manipulation using _pandas_.
+- __Part 3:__ Simple machine learning models using _scikit-learn_.
 
-The Hackathon organisers will provide you with a dataset and a set of tasks to tackle during the evening. There will be a group of experienced coders and bioinformaticians to help you out with the challenge.
+The format of the event will consist of live-coding demonstrations and mini-coding challenges for you to solve. 
+
+Given enough time, you will be a get a task of investigating a publicly available dataset, selecting a statistical model and setting up an analysis pipeline.
+
+There will be a group of experienced coders and bioinformaticians to help you out with the challenge.
+
+## Coding language of the evening
+
+This session will primarily focus on Python-specific approaches for solving Hackathon challenges. 
 
 ## What do you need to bring
 
@@ -44,13 +46,9 @@ The Hackathon organisers will provide you with a dataset and a set of tasks to t
 - Working [Jupyter Notebook](https://jupyter.org/index.html) that is [already shipped using Anaconda](https://jupyter.org/install).
 - Code editor of your liking, for instance [PyCharm](https://www.jetbrains.com/pycharm/download/) or [spyder](https://www.spyder-ide.org/).
 
-### For R
-
-- If you decide to use R during the evening, make sure you have a working R environment and a good code editor, such as [RStudio](https://www.rstudio.com/).
-
 ## When and Where?
 
-- __Date__: 11th of November, 2019
+- __Date__: 23rd of March, 2020
 - __Where__: G552, Waterloo Bridge Wing, Waterloo Campus
 - __When__: 5PM - 9PM
 
@@ -58,7 +56,7 @@ The doors are open at 5PM  and everyone is welcome to come and network with fell
 
 ## Registration
 
-To register for the Data Hackathon, please follow to King's website on [Skills Forge](https://tinyurl.com/y4q9ooz8).
+To register for the Data Hackathon, please follow to King's website on [Skills Forge](https://training.kcl.ac.uk/kcl/#he/dev/eventDetails,;em,providerCode=HSDTC,providerOrgAlias=kcl,number=61).
 
 ## Want to brush up your Python skills?
 
