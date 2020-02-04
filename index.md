@@ -4,7 +4,7 @@ layout: default
 
 # King's College London Health Science DTC
 
-## Data Hackathon
+## Data Hackathon 101
 
 Everyone is invited to a fourth instalment of King's College London HSDTC Hackathon sessions. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
 
@@ -12,11 +12,15 @@ Our idea is to bring researchers from various backgrounds for an evening of comp
 
 ## Theme of the evening
 
-The Spring session will be a __beginners-focused__ event, where we will learn about basics of __Python__, __Data Manipulation__ and __Machine Learning__.
+During the session we will learn about __Python__ programming, __Data Manipulation__ and __Machine Learning__.
 
-## For whom is this Hackathon intended?
+## For whom is this Hackathon 101 intended?
 
-The Hackathon is suitable for beginners at King's, including undergraduate and postgraduate students, Post-Docs and PIs, regardless of their level of expertise with programming. You should come if you who wish to start using coding in your research or practice what you have learnt before. 
+This session will be a __beginners-focused__ event and is suitable for anyone, including undergraduate and postgraduate students, Post-Docs and PIs. 
+
+Do you wish to begin coding to accelerate your research? Or you have some initial experience, but need additional practice? This event is just for you! 
+
+If you are a more experienced coder, still do come and share your expertise with everyone around!
 
 ## Hackathon format
 
