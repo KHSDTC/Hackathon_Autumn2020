@@ -14,7 +14,7 @@ Our idea is to bring researchers from various backgrounds for an evening of comp
 
 During the session we will learn about __Python__ programming, __Data Manipulation__ and __Machine Learning__.
 
-## For whom is this Hackathon 101 intended?
+## For whom is Hackathon 101 intended?
 
 This session will be a __beginners-focused__ event and is suitable for anyone, including undergraduate and postgraduate (taught and research) students, Post-Docs and PIs. 
 
@@ -52,9 +52,9 @@ This session will primarily focus on Python-specific approaches for solving Hack
 
 ## When and Where?
 
-- __Date__: 23rd of March, 2020
-- __Where__: G552, Waterloo Bridge Wing, Waterloo Campus
-- __When__: 5PM - 9PM
+- __Date__: 23rd of March, 2020.
+- __Where__: G552, Waterloo Bridge Wing, Waterloo Campus.
+- __When__: 5PM - 9PM.
 
 The doors are open at 5PM  and everyone is welcome to come and network with fellow coders! The Hackathon session will start at 5:30PM and during the evening we will have food and drinks provided by HSDTC.
 
