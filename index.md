@@ -16,7 +16,7 @@ During the session we will learn about __Python__ programming, __Data Manipulati
 
 ## For whom is this Hackathon 101 intended?
 
-This session will be a __beginners-focused__ event and is suitable for anyone, including undergraduate and postgraduate students, Post-Docs and PIs. 
+This session will be a __beginners-focused__ event and is suitable for anyone, including undergraduate and postgraduate (taught and research) students, Post-Docs and PIs. 
 
 Do you wish to begin coding to accelerate your research? Or you have some initial experience, but need additional practice? This event is just for you! 
 
