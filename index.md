@@ -62,6 +62,8 @@ The doors are open at 5PM  and everyone is welcome to come and network with fell
 
 To register for the Data Hackathon, please follow to King's website on [Skills Forge](https://training.kcl.ac.uk/kcl/#he/dev/eventDetails,;em,providerCode=HSDTC,providerOrgAlias=kcl,number=61).
 
+> Please note that you will need to already be logged in to SkillsForge for this deep link to work directly; if you are having trouble finding the registration page after logging in to SkillsForge, please either search for ‘HSDTC61’ in SkillsForge, or copy and paste the above link into your browser’s address bar. Please contact hs-dtc@kcl.ac.uk if you have any problems with registration.
+
 ## Want to brush up your Python skills?
 
 There are numerous online Python tutorials, but you can start by taking a look at the following tutorials:
