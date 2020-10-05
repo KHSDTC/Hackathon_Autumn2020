@@ -6,7 +6,7 @@ layout: default
 
 ## Data Hackathon 101
 
-Everyone is invited to a fourth instalment of King's College London HSDTC Hackathon sessions. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
+Everyone is invited to a fourth installment of King's College London HSDTC Hackathon sessions. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
 
 Our idea is to bring researchers from various backgrounds for an evening of computational biology problem solving. We aim to provide a relaxed environment for people to engage, discuss and exchange programming knowledge.
 
@@ -24,45 +24,46 @@ If you are a more experienced coder, still do come and share your expertise with
 
 ## Hackathon format
 
-The Hackathon will be divided into three parts:
+The Hackathon will consist of three online sessions spaced out across three weeks. 
 
-- __Part 1:__ Basics of Python programming.
-- __Part 2:__ Data manipulation using _pandas_.
-- __Part 3:__ Simple machine learning models using _scikit-learn_.
+- The __first__ session will introduce:
+	- _Part 1:_ Basics of Python programming.
+	- _Part 2:_ Data manipulation using _pandas_.
 
-The format of the event will consist of live-coding demonstrations and mini-coding challenges for you to solve. 
+- The __second__ session will cover:
+	- _Part 3:_ Application of machine learning models using _scikit-learn_.
 
-Given enough time, you will be a get a task of investigating a publicly available dataset, selecting a statistical model and setting up an analysis pipeline.
+The format of the first two sessions will consist of live-coding demonstrations and mini-coding challenges for you to solve. There will be a group of experienced coders to help you out with any issues.
 
-There will be a group of experienced coders and bioinformaticians to help you out with the challenge.
+In parallel, you will be divided into groups and given a task of investigating a publicly available dataset, selecting appropriate modelling tools and setting up an analysis pipeline.
+
+During the __third__ and final session, each group will present about how they approached the given challenge. The awards await the best presentations!
+
+To solve the final challenge as a group, it is crucial that you are able to attend all three sessions. Please do take into consideration the session dates when registering.
 
 ## Coding language of the evening
 
 This session will primarily focus on Python-specific approaches for solving Hackathon challenges. 
 
-## What do you need to bring
+## What do you need to have
 
-- Laptops, power supplies and an inquisitive spirit.
+- An operating computer, a stable internet connection and an inquisitive spirit.
 
 ### For Python
 
-- Working Python environment (3.x) that could be provided by downloading [Anaconda](https://www.anaconda.com/distribution/).
-- Working [Jupyter Notebook](https://jupyter.org/index.html) that is [already shipped using Anaconda](https://jupyter.org/install).
-- Code editor of your liking, for instance [PyCharm](https://www.jetbrains.com/pycharm/download/) or [spyder](https://www.spyder-ide.org/).
+There is no need to download or install anything, expect for having an access to a Google account. The code writing and excecution will be solely performed on [Google Colab](https://colab.research.google.com/) platform. But more on that later!
 
 ## When and Where?
 
-- __Date__: 23rd of March, 2020.
-- __Where__: G552, Waterloo Bridge Wing, Waterloo Campus.
-- __When__: 5PM - 9PM.
+- __Date__: 2nd, 6th and 16th of November, 2020.
+- __Where__: Online, Microsoft Teams.
+- __When__: 5:00PM - 8PM.
 
-The doors are open at 5PM  and everyone is welcome to come and network with fellow coders! The Hackathon session will start at 5:30PM and during the evening we will have food and drinks provided by HSDTC.
+The doors are open at 5PM and everyone is welcome to come and network with fellow coders! The Hackathon session will start at 5:15PM.
 
 ## Registration
 
-To register for the Data Hackathon, please follow to King's website on [Skills Forge](https://training.kcl.ac.uk/kcl/#he/dev/eventDetails,;em,providerCode=HSDTC,providerOrgAlias=kcl,number=61).
-
-> Please note that you will need to already be logged in to SkillsForge for this deep link to work directly; if you are having trouble finding the registration page after logging in to SkillsForge, please either search for ‘HSDTC61’ in SkillsForge, or copy and paste the above link into your browser’s address bar. Please contact hs-dtc [at] kcl.ac.uk if you have any problems with registration.
+The registration will be opened up soon! Watch this space.
 
 ## Want to brush up your Python skills?
 
