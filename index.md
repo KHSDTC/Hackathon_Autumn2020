@@ -63,7 +63,7 @@ The doors are open at 5PM and everyone is welcome to come and network with fello
 
 ## Registration
 
-Please complete your registration at [SkillsForge booking page](https://training.kcl.ac.uk/kcl/#he/dev/eventDetails,;em,providerCode=HSDTC,providerOrgAlias=kcl,number=109,). There are only 30 places available, thus in order to ensure your place for the Hackathon, make ensure that you are registered.
+Please complete your registration at [SkillsForge booking page](https://training.kcl.ac.uk/kcl/#he/dev/eventDetails,;em,providerCode=HSDTC,providerOrgAlias=kcl,number=109,). There are only 30 places available, thus in order to ensure your place in the Hackathon, make sure that you are registered.
 
 ## Want to brush up your Python skills?
 
