@@ -55,7 +55,7 @@ There is no need to download or install anything, expect for having an access to
 
 ## When and Where?
 
-- __Date__: 2nd, 6th and 16th of November, 2020.
+- __Date__: 2nd, 9th and 16th of November, 2020.
 - __Where__: Online, Microsoft Teams.
 - __When__: 5:00PM - 8PM.
 
